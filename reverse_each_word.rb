@@ -4,7 +4,8 @@ array = []
 
 array = string.split
 
-array 
+array.each do |element| 
+  element.reverse 
 
 
 
